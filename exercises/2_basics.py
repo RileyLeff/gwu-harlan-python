@@ -8,7 +8,7 @@ you can make multiline comments
 by enclosing the whole thing
 in triple quotes
 
-the interpreter will not care about anything in these triple quotes
+the interpreter will not care about anything inside these triple quotes
 """
 
 # assign value to variable
@@ -32,9 +32,10 @@ print(sit)
 
 ### EXERCISES:
 
-# 1. Can you overwrite an already-assigned variable with a new value?
+# 1. Can you overwrite an already-assigned variable name with a new value? Test it out in the interpreter!
 
-# 2. Are variable names case-sensitive?
+# 2. Are variable names case-sensitive? 
+#   i.e. does a variable called MY_VAR refer to the same object as my_var? Given what you found earlier about overwrites, think of a way to test this out!
 
 
 
