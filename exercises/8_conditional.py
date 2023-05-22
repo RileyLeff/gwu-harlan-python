@@ -2,7 +2,7 @@
 # For example:
     # do A if B, else, do C. 
 
-# To implement this, you'll need to use expressions that check whether a condition is True or False. 
+# To implement this kind of behavior, you'll need to use expressions that check whether a given condition is True or False. 
 # In python, here's a few of our options:
 
 ## COMPARISON
