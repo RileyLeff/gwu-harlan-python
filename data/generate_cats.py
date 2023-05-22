@@ -70,10 +70,3 @@ with open(out_path, 'w', newline = '') as fil:
         catwriter.writerow(outlist)
 
 
-
-#   which cat appears most frequently?
-#   which cat/activity/location combo appears most frequently? 
-#   what's the longest streak of one cat consecutively?
-#   what's the longest streak of alternating cats?
-#   do all unique combos occur?
-#   which unique combo takes the longest to occur?
